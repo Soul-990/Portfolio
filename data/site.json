@@ -1,0 +1,263 @@
+{
+ "name": "Soul Emperor",
+ "email": "mkashif77442@gmail.com",
+ "cv": "assets/cv/Kashif_CV.pdf",
+ "formspreeId": "",
+ "titles": [
+  "Full Stack Developer",
+  "Frontend Developer",
+  "Laravel Developer",
+  "UI Enthusiast"
+ ],
+ "intro": "Passionate developer creating modern, interactive, and user-friendly digital experiences.",
+ "socials": [
+  {
+   "name": "LinkedIn",
+   "icon": "bi-linkedin",
+   "url": "https://www.linkedin.com/in/muhammad-kashif-71b34a44a/"  
+  },
+  {
+   "name": "GitHub",
+   "icon": "bi-github",
+   "url": "https://github.com/Soul-990"
+  },
+  {
+   "name": "WhatsApp",
+   "icon": "bi-whatsapp",
+   "url": "https://wa.me/03192477442"
+  },
+  {
+   "name": "Job Genie",
+   "icon": "bi-briefcase",
+   "url": "https://example.com/job-genie-profile"
+  },
+  {
+   "name": "Website",
+   "icon": "bi-globe2",
+   "url": "https://example.com"
+  }
+ ],
+ "about": {
+  "intro": "I'm a developer who enjoys turning ideas into polished, responsive products, from pixel-perfect interfaces to the server logic behind them.",
+  "journey": "My journey started with HTML and CSS, grew into JavaScript, and moved on to PHP, Laravel and MySQL for full-stack work.",
+  "education": "Software Enginering / diploma, Aptech Metro Star Gate, 3 years.",
+  "interests": "Full-stack web applications, interactive UI, clean architecture and developer experience.",
+  "goals": "Ship production-grade products, deepen backend skills, and keep learning every month.",
+  "tech": [
+   "HTML",
+   "CSS",
+   "JavaScript",
+   "Bootstrap",
+   "PHP",
+   "Laravel",
+   "MySQL",
+   "Git"
+  ]
+ },
+ "stats": [
+  {
+   "v": "12+",
+   "l": "Projects Completed"
+  },
+  {
+   "v": "10+",
+   "l": "Technologies Learned"
+  },
+  {
+   "v": "3 yrs",
+   "l": "Development Experience"
+  }
+ ],
+ "skills": [
+  {
+   "cat": "Frontend Development",
+   "items": [
+    {
+     "n": "HTML",
+     "i": "bi-filetype-html",
+     "v": 80
+    },
+    {
+     "n": "CSS",
+     "i": "bi-filetype-css",
+     "v": 75
+    },
+    {
+     "n": "JavaScript",
+     "i": "bi-filetype-js",
+     "v": 70
+    },
+    {
+     "n": "Bootstrap",
+     "i": "bi-bootstrap",
+     "v": 75
+    }
+   ]
+  },
+  {
+   "cat": "Backend Development",
+   "items": [
+    {
+     "n": "PHP",
+     "i": "bi-filetype-php",
+     "v": 70
+    },
+    {
+     "n": "Laravel",
+     "i": "bi-lightning-charge",
+     "v": 65
+    },
+    {
+     "n": "MySQL",
+     "i": "bi-database",
+     "v": 65
+    }
+   ]
+  },
+  {
+   "cat": "Other Tools",
+   "items": [
+    {
+     "n": "Git",
+     "i": "bi-git",
+     "v": 70
+    },
+    {
+     "n": "GitHub",
+     "i": "bi-github",
+     "v": 75
+    },
+    {
+     "n": "VS Code",
+     "i": "bi-code-square",
+     "v": 80
+    },
+    {
+     "n": "Visual Studio",
+     "i": "bi-window-stack",
+     "v": 60
+    }
+   ]
+  }
+ ],
+ "availability": "Open to freelance projects, internships and full-time roles. I usually reply within 24 hours.",
+ "services": [
+  {
+   "i": "bi-window-desktop",
+   "t": "Frontend Development",
+   "d": "Responsive, animated interfaces built with HTML, CSS, JavaScript and Bootstrap."
+  },
+  {
+   "i": "bi-server",
+   "t": "Backend Development",
+   "d": "Laravel and PHP applications with clean MVC structure and MySQL databases."
+  },
+  {
+   "i": "bi-palette",
+   "t": "UI / UX Design",
+   "d": "Dark, modern layouts with strong typography, motion and attention to detail."
+  },
+  {
+   "i": "bi-rocket-takeoff",
+   "t": "Deployment",
+   "d": "Static sites on GitHub Pages and full-stack apps on external hosting."
+  }
+ ],
+ "journey": [
+  {
+   "y": "Year 1",
+   "t": "Where it started",
+   "d": "Wrote my first HTML and CSS pages and fell in love with building things people can see."
+  },
+  {
+   "y": "Year 2",
+   "t": "Learning JavaScript",
+   "d": "Added interactivity, APIs and small projects, and learned Git and GitHub."
+  },
+  {
+   "y": "Year 3",
+   "t": "Going full stack",
+   "d": "Moved into PHP, Laravel and MySQL and shipped my first complete applications."
+  },
+  {
+   "y": "Now",
+   "t": "Polishing and growing",
+   "d": "Focused on performance, design quality and larger, real-world projects."
+  }
+ ],
+ "edu": [
+  {
+   "y": "2025 – 2028",
+   "t": "3-Year Diploma in Software Engineering",
+   "d": "Aptech Metro Star Gate. Currently studying web development, object-oriented programming, databases, and building full-stack projects."
+  },
+  {
+   "y": "2025",
+   "t": "Intermediate / Higher Secondary Certificate (12th Grade)",
+   "d": "D.J. Sindh Government Science College, Karachi (BIEK). Completed higher secondary education with a focus on Computer Science and Mathematics."
+  }
+ ],
+ "learning": [
+  "TypeScript",
+  "React",
+  "Vue",
+  "REST API design",
+  "Docker",
+  "Testing (PHPUnit)",
+  "Web performance",
+  "Accessibility"
+ ],
+ "strengths": [
+  {
+   "i": "bi-lightbulb",
+   "t": "Problem Solving",
+   "d": "I break big problems into small, testable steps."
+  },
+  {
+   "i": "bi-people",
+   "t": "Communication",
+   "d": "Clear updates, honest estimates and friendly collaboration."
+  },
+  {
+   "i": "bi-arrow-repeat",
+   "t": "Fast Learner",
+   "d": "I pick up new tools quickly and apply them to real projects."
+  }
+ ],
+ "process": [
+  {
+   "t": "Discover",
+   "d": "Understand goals, audience and constraints before writing code."
+  },
+  {
+   "t": "Design",
+   "d": "Sketch layouts, pick type and colour, and plan the data."
+  },
+  {
+   "t": "Build",
+   "d": "Develop in small steps with Git, reviewing as I go."
+  },
+  {
+   "t": "Launch",
+   "d": "Test on real devices, optimise and deploy."
+  }
+ ],
+ "faq": [
+  {
+   "q": "What kind of projects do you take on?",
+   "a": "Portfolio and business websites, dashboards, and full-stack web apps built with Laravel and MySQL."
+  },
+  {
+   "q": "How long does a typical project take?",
+   "a": "A landing page takes days, a full-stack app takes weeks. I share a timeline after we talk."
+  },
+  {
+   "q": "Do you work with existing codebases?",
+   "a": "Yes. I can fix bugs, add features or modernise an existing PHP or JavaScript project."
+  },
+  {
+   "q": "How can we start?",
+   "a": "Send a message with a short description of your idea and I will reply with questions and next steps."
+  }
+ ]
+}
